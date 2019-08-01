@@ -1,0 +1,30 @@
+{
+  "writers": [
+    {
+      "id": 1,
+      "name": "Kumpi",
+      "age": 74,
+      "hobbies": "whisky tasting, sleeping",
+      "likes": 0
+    },
+    {
+      "id": 2,
+      "name": "Kampi",
+      "age": 11,
+      "hobbies": "board games, coding",
+      "likes": 1
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hipster Ipsum",
+      "text": "Palo santo plaid direct trade four dollar toast thundercats food truck enamel pin la croix art party tote bag pok pok forage hot chicken succulents. Celiac next level yr, tumblr etsy subway tile keffiyeh cray. Fingerstache vinyl viral, bitters pug chicharrones fanny pack hot chicken. Lumbersexual skateboard authentic, mumblecore artisan franzen kitsch cloud bread DIY. Chambray pok pok echo park narwhal, jianbing chartreuse health goth tacos. Copper mug af cornhole, bespoke humblebrag cred 8-bit shabby chic etsy church-key poutine iPhone."
+    },
+    {
+      "id": 2,
+      "title": "Pirate Ipsum",
+      "text": "Gun provost fore red ensign mizzen black jack snow scurvy strike colors sutler. Rigging aft chase guns spanker dead men tell no tales measured fer yer chains hulk gabion code of conduct lad. Rum jib flogging gibbet weigh anchor league yardarm holystone strike colors gun. Fluke log Sail ho lee spyglass crack Jennys tea cup plunder ye spirits Nelsons folly. Lee case shot draught Blimey lugsail grog blossom dead men tell no tales pillage haul wind transom. Lass bilged on her anchor squiffy knave run a shot across the bow ho hornswaggle flogging lugsail boom. Rum booty mutiny sheet handsomely walk the plank bowsprit crack Jennys tea cup weigh anchor hardtack. Wench Shiver me timbers heave to fluke broadside Sail ho rope's end nipper gally long boat. Hempen halter Arr tack no prey, no pay wench squiffy ahoy draught bilged on her anchor lad."
+    }
+  ]
+}

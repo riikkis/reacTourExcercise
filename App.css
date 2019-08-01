@@ -1,0 +1,46 @@
+.masthead {
+  text-align: center;
+}
+
+.about > h2 {
+  text-align: center;
+}
+
+.about-cards {
+  display: flex;
+  justify-content: center;
+}
+
+.about-card {
+  margin: 1em 2em;
+  padding: 0.5em 2em;
+  background-color: #f9f9f9;
+  border: 1px solid #d2d2d2;
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px rgba(165, 165, 165, 0.4);
+}
+
+.likes-wrapper {
+  display: flex;
+  border-top: 1px solid #c5c5c5;
+  padding-top: 0.5em;
+}
+
+.likes-wrapper * {
+  margin: 0 0.2em;
+}
+
+.btn {
+  background-color: #efefef;
+  border-radius: 3px;
+  border: 1px solid #b1b1b1;
+  width: 2em;
+}
+
+.posts {
+  margin: 0 10vw;
+}
+
+.single-post {
+  border-bottom: 1px solid #eaeaea;
+}
